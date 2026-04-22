@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 22 Apr 2026 11:05:18 at https://www.lazaldivar.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.lazaldivar.com/ -O1 "C:\Users\angel\OneDrive\Escritorio\weebly" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:08:15	Error: 	"Not Found" (404) at link https://www.lazaldivar.com/cdn-cgi/l/email-protection (from https://www.lazaldivar.com/)
+11:08:18	Error: 	"Not Found" (404) at link https://www.lazaldivar.com/"/uploads/1/0/9/9/109930177/background-images/1491452866.jpg" (from https://www.lazaldivar.com/research.html)
+11:08:18	Error: 	"Not Found" (404) at link https://www.lazaldivar.com/"//cdn2.editmysite.com/images/editor/theme-background/stock/7110501627_65d68d4b95_b.jpg" (from https://www.lazaldivar.com/teaching.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 0 seconds : 197 links scanned, 192 files written (9062750 bytes overall) [5394801 bytes received at 29971 bytes/sec], 5755324 bytes transferred using HTTP compression in 72 files, ratio 33%, 6.6 requests per connection
+(3 errors, 0 warnings, 0 messages)

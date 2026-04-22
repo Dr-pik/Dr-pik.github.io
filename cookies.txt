@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.lazaldivar.com	TRUE	/	FALSE	1999999999	__cf_bm	X8QN4pQKg8c6WSD4k1_eCIjLJJwDdQmmXLz8U0wM3_Q-1776877519.260937-1.0.1.1-64wf1JFh7xkAAgMfCPX9OoVclazFQC_gk90Dt5H4sqBDc8nH8F5PhGklqJX9ObrAACKVTXIJgDSOLE3dswGx3nWmoqXJz4MaC74Jeg0.WGI3wSxwXZx1HV_8HOAz08UJ
+www.lazaldivar.com	TRUE	/	FALSE	1999999999	cookie-consent	%7B%22allowStrictlyNecessaryCookies%22%3Atrue%2C%22allowFunctionalityCookies%22%3Atrue%2C%22allowPerformanceCookies%22%3Atrue%2C%22allowTargetingCookies%22%3Atrue%2C%22allowInternalPerformanceCookies%22%3Atrue%7D
+
